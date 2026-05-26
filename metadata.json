@@ -1,0 +1,6 @@
+{
+  "name": "VoldyGram",
+  "description": "An adorable, cat-themed WhatsApp-like messaging app featuring persistent chats, cat contacts, interactive playpen games, and Voldy AI (a cat chat companion).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
